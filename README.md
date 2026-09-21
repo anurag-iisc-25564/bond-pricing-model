@@ -21,7 +21,7 @@ A Python-based mini project for calculating theoretical bond prices using zero-r
 Clone the repository:
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/anurag-iisc-25564/bond-pricing-model.git
 cd miniproject1
 
 
