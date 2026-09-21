@@ -23,7 +23,7 @@ Clone the repository:
 ```bash
 git clone https://github.com/anurag-iisc-25564/bond-pricing-model.git
 cd miniproject1
-
+```
 
 for Windows use 
 ```bash
